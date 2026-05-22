@@ -20,6 +20,7 @@ Bem-vindo ao meu repositório de estudos! Aqui eu guardo toda a minha evolução
 
 ## 📈 Meu Progresso
 - [x] Entender variáveis e loops.
-- [x] Fazer um botão mudar de cor com JS.
-- [ ] Criar uma calculadora funcional.
+- [x] Começar os estudos em Python
+- [ ] Aplicação Banco de dados em algum projeto
 - [ ] Consumir uma API externa.
+- [ ] Fazer meu site
